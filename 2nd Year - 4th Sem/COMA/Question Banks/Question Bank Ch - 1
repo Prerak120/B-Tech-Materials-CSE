@@ -121,54 +121,29 @@ CO3 BT
 2
 6 Describe what is an Interrupt? Explain each priority wise 
 Interrupt types. Also describe EI and DI instruction?
-CO3 BT
-2
-7 In 8085, Which of the following instruction use to check 
-interrupts are pending or not.
-CO3 BT
-1
+
+7 In 8085, Which of the following instruction use to check interrupts are pending or not.
+
+
 Chapter-6
-Sr No Question COs B.T
-1 Explain logical and circular shift microoperation CO1 BT-2
-2 Explain the fetch stage; decode stage and execution 
-stage of instruction cycle with example of any one 
-instruction.
-CO1 BT-2
-3 Explain circular shift and arithmetic shift micro 
-operations with examples.
-CO1 BT-2
-4 Draw timing diagram of instruction MOV B, C. CO1 BT-4
-5 Draw a common bus system using multiplexers. CO1 BT-6
-6 Explain MAR and MAD with memory diagram. CO1 BT-2
-7 Draw and explain timing diagram for MVI B, 05H. CO1 BT-4
-8 What is the instruction and how it will be fetch and 
-executed?
-CO1 BT-2
-9 Define Machine cycle. List its types and draw Timing 
-diagram for IO read Instruction.
-CO1 BT-4
-10 What is an Assembler? CO1 BT-1
-11 Why do we need clock in microprocessor? CO1 BT-2
-12 What stand for CISC and RISC? CO1 BT-1
-13 What is MIMD and SIMD? CO1 BT-1
+
+1 Explain logical and circular shift microoperation 
+2 Explain the fetch stage; decode stage and execution stage of instruction cycle with example of any one instruction.
+3 Explain circular shift and arithmetic shift micro operations with examples.
+4 Draw timing diagram of instruction MOV B, C. 
+5 Draw a common bus system using multiplexers. 
+6 Explain MAR and MAD with memory diagram.
+7 Draw and explain timing diagram for MVI B, 05H.
+8 What is the instruction and how it will be fetch and executed?
+9 Define Machine cycle. List its types and draw Timing diagram for IO read Instruction.
+10 What is an Assembler?
+11 Why do we need clock in microprocessor? 
+12 What stand for CISC and RISC? 
+13 What is MIMD and SIMD?
+
 Chapter-7
-Sr No
-Question COs B.T
-1
-Give classification of memory in 8085.
-CO1
-BT-4
-2
-Elaborate cache memory.
-CO1
-BT-2
-3
-What is the high-speed memory between the main 
-memory and the CPU called?
-CO1
-BT-1
-4
-Flash Memory is non-volatile memory? (Y/N) Justify 
-your answer.
-CO1
-BT-2
+
+1 Give classification of memory in 8085.
+2 Elaborate cache memory.
+3 What is the high-speed memory between the main memory and the CPU called?
+4 Flash Memory is non-volatile memory? (Y/N) Justify your answer.
