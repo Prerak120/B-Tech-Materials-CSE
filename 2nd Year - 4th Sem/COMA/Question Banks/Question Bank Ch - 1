@@ -48,80 +48,39 @@ Chapter-1
 
 
 Chapter-2
-Sr No Question COs B.T
-1 Draw and explain the Interfacing of 4KB EPROM to 
-8085 with starting address A000H.write the starting 
-and ending location of 8085
-CO3 BT-6
-2 Draw memory interfacing of EPROM of 2Kbyte and 
-RAM of 4Kbyte with 8085 using the decoder.
-CO3 BT-6
-3 Interface two memories RAM and EPROM having 
-size of 8kbyte each. Find its starting address and 
-Ending address.
-CO3 BT-6
-4 What do mean by peripherals? CO3 BT-1
-5 Can we interface 64 MB memory with 8085?(Y/N) CO3 BT-4
+
+1 Draw and explain the Interfacing of 4KB EPROM to 8085 with starting address A000H.write the starting and ending location of 8085
+2 Draw memory interfacing of EPROM of 2Kbyte and RAM of 4Kbyte with 8085 using the decoder.
+3 Interface two memories RAM and EPROM having size of 8kbyte each. Find its starting address and Ending address.
+4 What do mean by peripherals?
+5 Can we interface 64 MB memory with 8085?(Y/N)
 
 
 Chapter-3
-Sr No Question COs B.T
-1 Explain CMP M , RAL and CMA instruction of 8085 CO2 BT-2
-2 Explain given Instructions: 1) MVI 2) CMP 3) XRA 4) 
-SUB 5) STA
-CO2 BT-2
-3 Describe following instruction in detail with example: I. 
-LXI instruction II. LHLD III. STAX IV. CMA V. RRC
-CO2 BT-2
-4 Write a program to divide two 8-bit data given as per 
-memory location, Input: 7015H – 50H 7016H – 05H 
-Store output at 5016H memory location.
-CO2 BT-3
-5 For 8085 microprocessor, if register B has 65 H and 
-accumulator has 97 H, What will be the content of 
-accumulator after executing instruction SUB B?
-CO4 BT-4
-6 Explain usage of STAX instruction. CO2 BT-2
-Chapter-4
-Sr No
-Question COs B.T
-1
-Generate 0.5second delay using 16-bit register pair as 
-counter method. Consider 6MHz clock frequency and 
-the internal clock frequency is 3MHz.
-CO2
-BT-3
-2
-Write 8085 Assembly language program to convert 
-binary to ASCII values.
-CO2
-BT-3
-3
-Explain the stack and subroutine with role of PUSH and 
-POP instructions.
-CO2
-BT-2
-Chapter-5
-Sr 
-No
-Question COs B.T
-1 Draw and explain interrupt structure of 8085 CO3 BT
-2
-2 Explain Vectored, Non vectored, Maskable and Non 
-Maskable interrupts. Give examples also.
-CO3 BT
-2
-3 Classify Interrupts and explain it with example. CO3 BT
-4
-4 Explain RIM and SIM instruction in detail CO3 BT
-2
-5 Which instruction is used to control interrupt. Give its 
-types and explain any one with diagram.
-CO3 BT
-2
-6 Describe what is an Interrupt? Explain each priority wise 
-Interrupt types. Also describe EI and DI instruction?
 
+1 Explain CMP M , RAL and CMA instruction of 8085 
+2 Explain given Instructions: 1) MVI 2) CMP 3) XRA 4) SUB 5) STA
+3 Describe following instruction in detail with example: I. LXI instruction II. LHLD III. STAX IV. CMA V. RRC
+4 Write a program to divide two 8-bit data given as per memory location, Input: 7015H – 50H 7016H – 05H Store output at 5016H memory location.
+5 For 8085 microprocessor, if register B has 65 H and accumulator has 97 H, What will be the content of accumulator after executing instruction SUB B?
+6 Explain usage of STAX instruction.
+
+
+Chapter-4
+
+1 Generate 0.5second delay using 16-bit register pair as counter method. Consider 6MHz clock frequency and the internal clock frequency is 3MHz.
+2 Write 8085 Assembly language program to convert binary to ASCII values.
+3 Explain the stack and subroutine with role of PUSH and POP instructions.
+
+
+Chapter-5
+
+1 Draw and explain interrupt structure of 8085
+2 Explain Vectored, Non vectored, Maskable and Non Maskable interrupts. Give examples also.
+3 Classify Interrupts and explain it with example.
+4 Explain RIM and SIM instruction in detail
+5 Which instruction is used to control interrupt. Give its types and explain any one with diagram.
+6 Describe what is an Interrupt? Explain each priority wise Interrupt types. Also describe EI and DI instruction?
 7 In 8085, Which of the following instruction use to check interrupts are pending or not.
 
 
