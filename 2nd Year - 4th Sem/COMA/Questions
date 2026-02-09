@@ -1,1 +1,108 @@
+Subject Name Computer Organization and Microprocessor (COMA)
+A.Y 2025-26
+Subject Code 303105210 
+Semester 4th
 
+Chapter-1
+
+1 Draw and explain the programming model of 8085.
+2 Define the following (1) Machine Language (2) Assembly Language (3) Assembler (4) subroutines
+3 Draw and explain Architecture of 8085 Microprocessor.
+4 Give difference between microprocessor and microcontroller.
+5 Explain direct addressing mode and Indirect addressing mode of 8085with examples.
+6 Draw pin diagram of 8085 microprocessor and explain READY and RESET IN pin.
+7 Draw pin diagram of 8085 and explain any 5 pins in detail
+8 Explain flag register in detail.
+9 What is the use of register in 8085? How register is different from memory?
+10 Draw and explain de-multiplexed address data bus. CO1 BT-2
+11 Draw and explain any three blocks of architecture of 8085.
+12 Classification of Microprocessor based on size, application and speed.
+13 Explain languages for communication between microprocessor to other peripheral and vice-versa.
+14 Explain the need to De-multiplex the bus AD7-AD0.
+15 Define: bit, nibble, byte, word and instruction
+16 What is meaning by 8-bit processor?
+17 What is Mnemonics?
+18 Define: Assembly language, machine language, high level language
+19 What is a Compiler?
+20 Which information given by address line? 
+21 Data bus is always bidirectional True/False 
+22 Microcontroller is faster than Microprocessor justify the statement.
+23 What are the advantages of an assembly language in comparison with high level language?
+24 Write full name of: RAM, ROM, ALU, SSI, MSI, VLSI, and ASCII.
+25 What is bus?
+26 How much memory access by 8085 microprocessor.
+27 ALU stand for. 
+28 What is purpose of Control Unit of Microprocessor? 
+29 Justify “ Microprocessor is a programmable device” 
+30 Justify “The direction of address bus is unidirectional”
+31 What is difference between 4 bit microprocessor and 8 bit microprocessor?
+32 What is difference between assembly language and machine language?
+33 What is use of Registers in microprocessor? 
+34 Define: Opcode and Operand. 
+35 What is difference between general purpose microprocessor and special purpose microprocessor?
+36 Write any one three byte instruction of 8085
+37 ________ pin is indicates that another device is requesting the use of the address and data bus of 8085
+38 ASCII code stands for______________. 
+39 How many transistors are used in 8085 microprocessor?
+40 Flag register is of _______ bit. 
+
+
+Chapter-2
+
+1 Draw and explain the Interfacing of 4KB EPROM to 8085 with starting address A000H.write the starting and ending location of 8085
+2 Draw memory interfacing of EPROM of 2Kbyte and RAM of 4Kbyte with 8085 using the decoder.
+3 Interface two memories RAM and EPROM having size of 8kbyte each. Find its starting address and Ending address.
+4 What do mean by peripherals?
+5 Can we interface 64 MB memory with 8085?(Y/N)
+
+
+Chapter-3
+
+1 Explain CMP M , RAL and CMA instruction of 8085 
+2 Explain given Instructions: 1) MVI 2) CMP 3) XRA 4) SUB 5) STA
+3 Describe following instruction in detail with example: I. LXI instruction II. LHLD III. STAX IV. CMA V. RRC
+4 Write a program to divide two 8-bit data given as per memory location, Input: 7015H – 50H 7016H – 05H Store output at 5016H memory location.
+5 For 8085 microprocessor, if register B has 65 H and accumulator has 97 H, What will be the content of accumulator after executing instruction SUB B?
+6 Explain usage of STAX instruction.
+
+
+Chapter-4
+
+1 Generate 0.5second delay using 16-bit register pair as counter method. Consider 6MHz clock frequency and the internal clock frequency is 3MHz.
+2 Write 8085 Assembly language program to convert binary to ASCII values.
+3 Explain the stack and subroutine with role of PUSH and POP instructions.
+
+
+Chapter-5
+
+1 Draw and explain interrupt structure of 8085
+2 Explain Vectored, Non vectored, Maskable and Non Maskable interrupts. Give examples also.
+3 Classify Interrupts and explain it with example.
+4 Explain RIM and SIM instruction in detail
+5 Which instruction is used to control interrupt. Give its types and explain any one with diagram.
+6 Describe what is an Interrupt? Explain each priority wise Interrupt types. Also describe EI and DI instruction?
+7 In 8085, Which of the following instruction use to check interrupts are pending or not.
+
+
+Chapter-6
+
+1 Explain logical and circular shift microoperation 
+2 Explain the fetch stage; decode stage and execution stage of instruction cycle with example of any one instruction.
+3 Explain circular shift and arithmetic shift micro operations with examples.
+4 Draw timing diagram of instruction MOV B, C. 
+5 Draw a common bus system using multiplexers. 
+6 Explain MAR and MAD with memory diagram.
+7 Draw and explain timing diagram for MVI B, 05H.
+8 What is the instruction and how it will be fetch and executed?
+9 Define Machine cycle. List its types and draw Timing diagram for IO read Instruction.
+10 What is an Assembler?
+11 Why do we need clock in microprocessor? 
+12 What stand for CISC and RISC? 
+13 What is MIMD and SIMD?
+
+Chapter-7
+
+1 Give classification of memory in 8085.
+2 Elaborate cache memory.
+3 What is the high-speed memory between the main memory and the CPU called?
+4 Flash Memory is non-volatile memory? (Y/N) Justify your answer.
